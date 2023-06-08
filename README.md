@@ -12,6 +12,8 @@ The goal is to study whether the Tract-based spatial statistics (TBSS) technique
 
 NB: you are expected to write a short report (in English, max 10 pages) which should describe the algorithms and the techniques you used, the implementation choices you made as well a discussion of the results you obtained. You will have 10'-15' to present your work in front of our research group (in English), followed by a 10'-15' discussion.
 
+[Lab 4 - image Regis](https://github.com/InsightSoftwareConsortium/ITKElastix)
+
 
 Useful References
 
@@ -38,3 +40,5 @@ Useful References
 [Python imaging Libs 2](https://medium.com/geekculture/a-look-into-the-world-of-medical-imaging-python-libraries-87bace7c1c98)
 
 [Pypi](https://pypi.org/project/MedPy/)
+
+[NeuroImage Regis](http://neuroimaging-data-science.org/content/006-image/003-registration.html)
