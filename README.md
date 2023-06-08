@@ -22,3 +22,4 @@ Useful References
 [Dicom](https://www.youtube.com/playlist?list=PLDSMLK7z8iamI9dF3QXG0bpWhJyAKmgjy)
 [MRI](https://www.youtube.com/playlist?list=PLjJWtyuv5yrrVCp-Fq4C2CfwepIZ9n943)
 [Case Study](https://www.youtube.com/watch?v=rTEwwkrJ6aI)
+[Neuro Imaging Python](https://nipype.readthedocs.io/en/latest/)
