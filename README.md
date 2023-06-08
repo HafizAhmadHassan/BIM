@@ -32,3 +32,9 @@ Useful References
 [Neuro Imaging Python](https://nipype.readthedocs.io/en/latest/)
 
 [Brain Imaging Search](https://github.com/topics/brain-imaging?l=python)
+
+[Python Imaging Libs](https://pycad.co/the-best-python-libraries-for-medical-imaging/)
+
+[Python imaging Libs 2](https://medium.com/geekculture/a-look-into-the-world-of-medical-imaging-python-libraries-87bace7c1c98)
+
+[Pypi](https://pypi.org/project/MedPy/)
