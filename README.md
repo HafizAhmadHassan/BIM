@@ -16,10 +16,19 @@ NB: you are expected to write a short report (in English, max 10 pages) which sh
 Useful References
 
 [Python Doc](https://andysbrainbook.readthedocs.io/en/latest/TBSS/TBSS_Course/TBSS_04_TopUpEddy.html)
+
 [FSL-Course](https://www.youtube.com/playlist?list=PLvgasosJnUVl_bt8VbERUyCLU93OG31h_)
+
 [Tutorial](youtube.com/watch?v=4FVGn8vodkc)
+
 [Python Labs](https://www.youtube.com/watch?v=M3ZWfamWrBM)
+
 [Dicom](https://www.youtube.com/playlist?list=PLDSMLK7z8iamI9dF3QXG0bpWhJyAKmgjy)
+
 [MRI](https://www.youtube.com/playlist?list=PLjJWtyuv5yrrVCp-Fq4C2CfwepIZ9n943)
+
 [Case Study](https://www.youtube.com/watch?v=rTEwwkrJ6aI)
+
 [Neuro Imaging Python](https://nipype.readthedocs.io/en/latest/)
+
+[Brain Imaging Search](https://github.com/topics/brain-imaging?l=python)
