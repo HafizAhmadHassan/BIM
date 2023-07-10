@@ -42,3 +42,16 @@ Useful References
 [Pypi](https://pypi.org/project/MedPy/)
 
 [NeuroImage Regis](http://neuroimaging-data-science.org/content/006-image/003-registration.html)
+
+
+# Libraries Setup
+
+## Elastix
+
+  - https://github.com/SuperElastix/elastix/releases/tag/5.1.0
+  - Manual Download
+  - Permission Denied Problem (chmod 755 to fix)
+  - https://stackoverflow.com/questions/12276507/run-script-on-mac-prompt-permission-denied 
+
+
+
