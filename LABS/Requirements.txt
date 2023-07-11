@@ -1,7 +1,0 @@
-notebook
-numpy
-nibabel
-python-csv
-pandas
-seaborn
-matplotlib
